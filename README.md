@@ -1,0 +1,1 @@
+# django-wise-template-mysql
